@@ -1,0 +1,15 @@
+.main_div{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 10px;
+}
+.title_div{
+    font-weight: bold;
+}
+.monthDuration_div, .hourDuration_div{
+    width: 30%;
+    display: inline-block;
+}
+.hourDuration_div {
+    width: 70%;
+}
